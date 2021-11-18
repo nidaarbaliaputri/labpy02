@@ -20,3 +20,8 @@ Diketahui 3 buah bilangan bil1,bil2,bil3, akan dicari nilai yang terbesar.
 flowchart
 
 ![image](https://user-images.githubusercontent.com/92866211/142402696-098b9fc6-613a-4c12-b29a-9f16c5d1cc63.png)
+
+screenshoot output program  input
+
+![image](https://user-images.githubusercontent.com/92866211/142403428-1b1f1f04-8185-4ca1-b664-57c50fdfb34c.png)
+
